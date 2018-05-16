@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Man</string>
+    <string name="forecast">Forecast</string>
+    <string name="weather_update_message">Updating Weather....</string>
+</resources>
